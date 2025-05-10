@@ -1,0 +1,17 @@
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.GeneratedMSBuildEditorConfig.editorconfig
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.AssemblyInfoInputs.cache
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.AssemblyInfo.cs
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.csproj.CoreCompileInputs.cache
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\bin\Debug\net8.0\A1ThanhTungLe.exe
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\bin\Debug\net8.0\A1ThanhTungLe.deps.json
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\bin\Debug\net8.0\A1ThanhTungLe.runtimeconfig.json
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\bin\Debug\net8.0\A1ThanhTungLe.dll
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\bin\Debug\net8.0\A1ThanhTungLe.pdb
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.dll
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\refint\A1ThanhTungLe.dll
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.pdb
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.genruntimeconfig.cache
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\ref\A1ThanhTungLe.dll
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhTungLe.csproj.AssemblyReference.cache
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\bin\Debug\net8.0\ConsoleTables.dll
+A:\Semester 3\.Net Technologies using C#\Assignment\A1ThanhTungLe\A1ThanhTungLe\A1ThanhTungLe\obj\Debug\net8.0\A1ThanhT.7CF4D4E9.Up2Date

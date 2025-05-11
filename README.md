@@ -22,8 +22,9 @@ This is a simple **Employee Management System** built using C# and .NET 8. It al
 
 ## How to Run
 
-1. Clone the repository: git clone https://github.com/tungle2709/Employee-Management-System.git cd Employee-Management-System
-
+1. Clone the repository: 
+    git clone https://github.com/tungle2709/Employee-Management-System
+    git cd Employee-Management-System
 2. Open the project in Visual Studio 2022.
 
 3. Build the solution:
